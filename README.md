@@ -81,4 +81,16 @@ The final forecasting step uses Groq's blazing fast inference engine to run Meta
 
 Groq enables zero-shot reasoning at unmatched speed and cost.
 
+💡 Notes & Future Ideas
+You can easily plug in LangChain or Autogen for even more dynamic agents.
+
+Add tracking pixel API for open rate detection.
+
+Extend with Notion/CRM integration or Slack alerts.
+
+🧑‍💻 Built By
+Arif Ahmad Khan
+Machine Learning Engineer & AI Automation Builder
+🔗 LinkedIn | 🌐 Portfolio
+
 
